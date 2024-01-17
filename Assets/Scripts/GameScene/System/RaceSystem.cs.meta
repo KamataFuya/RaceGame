@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ead7af977beca0e458d48c1b61756063
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textComponent: {instanceID: 0}
+  - laps: {instanceID: 0}
+  - start: {instanceID: 0}
+  - finish: {instanceID: 0}
+  - time: {instanceID: 0}
+  - rank: {instanceID: 0}
+  - reverse: {instanceID: 0}
+  - lapTime01: {instanceID: 0}
+  - CheckPoint01: {instanceID: 0}
+  - CheckPoint02: {instanceID: 0}
+  - CheckPoint03: {instanceID: 0}
+  - CheckPoint04: {instanceID: 0}
+  - attributeTexture: {fileID: 2800000, guid: ce5f11cd993284c4f9c54f854bdc8c9c, type: 3}
+  - checkPoint: {instanceID: 0}
+  - carController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
